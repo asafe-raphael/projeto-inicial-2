@@ -14,3 +14,6 @@ h1 {
 .cabecalho{
     background-color: rgb(2, 248, 35);
 }
+h1, h2 {
+    font-family: "Times New Roman", serif;
+}
