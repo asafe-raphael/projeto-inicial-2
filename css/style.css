@@ -39,3 +39,6 @@ button {
     background-color: rgb(67, 139, 221);
     color: white;
 }
+footer {
+    border-top: 2px solid red;
+}
