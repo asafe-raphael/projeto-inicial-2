@@ -26,3 +26,9 @@ nav {
 #conteudo {
     line-height: 1.5;
 }
+.formulario {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(104, 104, 104);
+    padding: 10px;
+}
