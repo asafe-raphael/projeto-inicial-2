@@ -1,7 +1,7 @@
 /*Isso é css*/
 
 h1 {
-    color: green;
+    color: cyan;
 }
 
 .link{
@@ -30,14 +30,14 @@ nav {
 .formulario {
     border-width: 1px;
     border-style: solid;
-    border-color: rgb(104, 104, 104);
+    border-color: gray;
     padding: 10px;
 }
 p {
-    color: rgb(20, 104, 20);
+    color: green;
 }
 button {
-    background-color: rgb(67, 139, 221);
+    background-color: cyan;
     color: white;
 }
 footer {
